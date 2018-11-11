@@ -8,7 +8,7 @@ Some people want to go up. Some people want to go down.
 
 The floor they want to go to is represented by a number 
 (i.e. when they enter the Lift this is the button they will press)
-
+<pre>
 BEFORE (people waiting in queues)               AFTER (people at their destinations)
                    +--+                                          +--+ 
   /----------------|  |----------------\        /----------------|  |----------------\
@@ -34,7 +34,7 @@ BEFORE (people waiting in queues)               AFTER (people at their destinati
   |----------------|  |----------------|        |----------------|  |----------------|
  G|                |  |                |       G|          0,0,0 |  |                |
   |====================================|        |====================================|
-
+</pre>
 Rules
 Lift Rules
 - The Lift only goes up or down!
