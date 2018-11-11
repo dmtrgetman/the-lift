@@ -1,4 +1,4 @@
-# Lift
+# The Lift
 Synopsis
 A multi-floor building has a Lift in it.
 
