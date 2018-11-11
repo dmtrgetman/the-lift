@@ -1,5 +1,5 @@
 # The Lift
-Synopsis
+
 A multi-floor building has a Lift in it.
 
 People are queued on different floors waiting for the Lift.
